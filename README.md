@@ -3,7 +3,7 @@ Meu Portfólio relacionado a Python e DataScience.
 
 [![author](https://img.shields.io/badge/author-romeuphp-red.svg)](https://www.linkedin.com/in/romeu-neves-6b1340184/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) 
 <p align="center">
-  <img src="banner.png" >
+  <img src="https://github.com/romeuphp/portfolio_template/blob/master/template.png?raw=true" >
 </p>
 
 # Romeu Neves 
