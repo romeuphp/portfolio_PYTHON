@@ -14,6 +14,7 @@ Já a dois anos formado na área de telecomunicaçoes na Espanha, já atuando na
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/romeu-neves-6b1340184/)
 * [Medium](https://medium.com/@rneves_91600)
+* [Instagram](https://www.instagram.com/romeunevesr/)
 
 
 ## Artigos:
