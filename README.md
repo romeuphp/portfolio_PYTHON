@@ -26,7 +26,7 @@ Veja os artigos publicados no medium:
 
 
 * **¡PYTHON ES AHORA EL INGLÉS DEL PASADO!:** https://medium.com/@rneves_91600/python-es-ahora-el-ingl%C3%A9s-del-pasado-11d11bdfd529
-* **OS BENEFÍCIOS OD CAFÉ:** https://medium.com/@rneves_91600/os-benef%C3%ADcios-do-caf%C3%A9-dc5bafdea526
+* **OS BENEFÍCIOS DO CAFÉ:** https://medium.com/@rneves_91600/os-benef%C3%ADcios-do-caf%C3%A9-dc5bafdea526
 
 
 ---
@@ -58,7 +58,7 @@ Puedes ver los articulos publicados en Medium
 
 
 * **¡PYTHON ES AHORA EL INGLÉS DEL PASADO!:** https://medium.com/@rneves_91600/python-es-ahora-el-ingl%C3%A9s-del-pasado-11d11bdfd529
-* **OS BENEFÍCIOS OD CAFÉ:** https://medium.com/@rneves_91600/os-benef%C3%ADcios-do-caf%C3%A9-dc5bafdea526
+* **OS BENEFÍCIOS DO CAFÉ:** https://medium.com/@rneves_91600/os-benef%C3%ADcios-do-caf%C3%A9-dc5bafdea526
 
 
 
